@@ -38,4 +38,3 @@ This repository contains the datasets and Google Colab notebooks for our hybrid 
 If you use this code or dataset in your work, please cite:
 
 > Faisal, S., Khan, K., Muhammed, M.T. et al. Machine learning and cheminformatics-driven identification of potential histone deacetylase 1 inhibitor candidates. *Mol Divers* **31**, 2 (2027). https://doi.org/10.1007/s11030-026-11750-9
-````
