@@ -28,3 +28,14 @@ This repository contains the datasets and Google Colab notebooks for our hybrid 
 ├── ecfp6-fingerprint-generation.ipynb                        # Generation of 2048-bit ECFP6 representations using RDKit
 ├── random_forest_model_hdac1_training_workflow.ipynb         # RF model training, optimization, and evaluation
 └── xgboost_hdac1_training and screening pipeline.ipynb       # XGBoost model training, SHAP analysis, and virtual screening
+
+````
+
+## Publication
+
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11030--026--11750--9-blue.svg?logo=doi&logoColor=white)](https://doi.org/10.1007/s11030-026-11750-9)
+
+If you use this code or dataset in your work, please cite:
+
+> Faisal, S., Khan, K., Muhammed, M.T. et al. Machine learning and cheminformatics-driven identification of potential histone deacetylase 1 inhibitor candidates. *Mol Divers* **31**, 2 (2027). https://doi.org/10.1007/s11030-026-11750-9
+````
